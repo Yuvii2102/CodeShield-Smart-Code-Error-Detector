@@ -1,4 +1,4 @@
-# Smart Code Error Detector (Java)
+# 💻 Smart Code Error Detector 
 
 ## 📌 Project Overview
 
