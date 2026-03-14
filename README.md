@@ -127,8 +127,8 @@ Possible upgrades for this project include:
 
 ## 👨‍💻 Author
 
-**Yuva (Yuvi)**
-BCA Student | Aspiring Software Developer
+Yuvraj (Yuvi)
+BCA Student 
 
 ---
 
