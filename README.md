@@ -127,12 +127,7 @@ Possible upgrades for this project include:
 
 ## 👨‍💻 Author
 
-Yuvraj (Yuvi)
+Yuvraj
 BCA Student 
 
 ---
-
-## ⭐ Contribution
-
-Feel free to fork this repository and improve the project.
-Contributions are welcome.
