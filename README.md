@@ -113,18 +113,6 @@ This project helps practice the following Java concepts:
 
 ---
 
-## 🔮 Future Improvements
-
-Possible upgrades for this project include:
-
-* Graphical User Interface (GUI)
-* Support for analyzing multiple lines of code
-* Detection of more programming errors
-* Integration with code editors
-* AI-based code suggestion system
-
----
-
 ## 👨‍💻 Author
 
 Yuvraj
