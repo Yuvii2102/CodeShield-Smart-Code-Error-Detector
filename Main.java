@@ -96,7 +96,7 @@ public class SmartCodeDetector
 
         List<String> codeLines = new ArrayList<>();
 
-        System.out.println("===== SMART CODE ERROR DETECTOR =====");
+        System.out.println(" SMART CODE ERROR DETECTOR ");
         System.out.println("Enter your Java code line by line.");
         System.out.println("Type 'END' to finish.\n");
 
